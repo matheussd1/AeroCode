@@ -1,0 +1,20 @@
+
+=========================================
+RELATÓRIO DE ENTREGA DE AERONAVE
+=========================================
+Data de Entrega: 10/04/2026
+Cliente: Aerocode Client (Padrão)
+
+--- DADOS DA AERONAVE ---
+Código: Teste-001
+Modelo: T-67
+Tipo: COMERCIAL
+Capacidade: 110
+Alcance: 4500 km
+
+--- RESUMO DE PRODUÇÃO ---
+Total de Peças Instaladas: 1
+Total de Etapas Concluídas: 1
+Total de Testes Realizados: 2
+=========================================
+        
